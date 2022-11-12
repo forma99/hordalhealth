@@ -1,0 +1,16 @@
+{
+  "main.css": "/hordalhealth/static/css/main.74c75e02.chunk.css",
+  "main.js": "/hordalhealth/static/js/main.8b379fcc.chunk.js",
+  "main.js.map": "/hordalhealth/static/js/main.8b379fcc.chunk.js.map",
+  "static/js/1.1374bb74.chunk.js": "/hordalhealth/static/js/1.1374bb74.chunk.js",
+  "static/js/1.1374bb74.chunk.js.map": "/hordalhealth/static/js/1.1374bb74.chunk.js.map",
+  "runtime~main.js": "/hordalhealth/static/js/runtime~main.8595ac41.js",
+  "runtime~main.js.map": "/hordalhealth/static/js/runtime~main.8595ac41.js.map",
+  "static/media/health-insurance.png": "/hordalhealth/static/media/health-insurance.67cdba53.png",
+  "static/media/profile.jpg": "/hordalhealth/static/media/profile.44f6b26a.jpg",
+  "static/media/j.jpeg": "/hordalhealth/static/media/j.587eada7.jpeg",
+  "static/css/main.74c75e02.chunk.css.map": "/hordalhealth/static/css/main.74c75e02.chunk.css.map",
+  "index.html": "/hordalhealth/index.html",
+  "precache-manifest.94801493212ca7329836316c6b5f718f.js": "/hordalhealth/precache-manifest.94801493212ca7329836316c6b5f718f.js",
+  "service-worker.js": "/hordalhealth/service-worker.js"
+}
